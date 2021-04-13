@@ -1,7 +1,7 @@
 ﻿# GOLANG Easy Logging
 ## Why?
 I made this because I'm bad at ~~coding~~ golang and just wanted a way to easily log messages to a text file.
-Added benefit of making any projects look cleaner with this repo.
+Added benefit of making any projects look cleaner with this repo I guess idk.
 
 ## Install
 Like any other go package run `go get "github.com/Github-Reneon/easy_logging/"`
