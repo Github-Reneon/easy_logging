@@ -1,3 +1,3 @@
-module easy_logging.go
+module github.com/Github-Reneon/easy_logging
 
 go 1.16
